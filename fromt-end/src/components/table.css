@@ -1,0 +1,46 @@
+.table {
+ 
+}
+.table thead {
+  
+}
+.table tbody {
+  
+}
+.table tr {
+  
+}
+
+td {
+  
+}
+
+th {
+  
+}
+.button {
+  background-color: rgba(12, 197, 17, 0.98);
+  border-radius: 8px;
+  margin: 3px;
+}
+.button_edit {
+  background-color: #78ac99;
+  color: rgb(11, 11, 44);
+  border: none;
+  cursor: pointer;
+}
+.button_del {
+  background-color: #78ac99;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: red;
+}
+.search {
+  color: red;
+  margin-left: 29rem;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  border-bottom: black solid 1px;
+}

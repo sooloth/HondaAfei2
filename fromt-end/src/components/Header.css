@@ -1,0 +1,10 @@
+.button_log_out {
+  display: flex;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  border-radius: 50%;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}

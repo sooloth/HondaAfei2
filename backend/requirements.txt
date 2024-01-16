@@ -1,0 +1,6 @@
+passlib[bcrypt]
+sqlalchemy
+fastapi[all]
+pyjwt
+psycopg2
+jose

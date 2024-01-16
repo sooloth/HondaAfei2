@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;300;400;500;600;800&family=Poppins:wght@100;200;300;400;500;600&family=Quintessential&family=Roboto:wght@300;400;500;700;900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins','Phetsarath OT', sans-serif;
+}
+.sidebar-control{
+  display:block;
+  width: 55%;
+  height: 100vh;
+  background-color: aqua;
+  text-align: start;
+}
+.sidebar-control .sidebar{
+  display: flex;
+  top: 10px;
+  left: 10px;
+}
+.sidebar ul{
+  display: block;
+  left: 0;
+
+}
